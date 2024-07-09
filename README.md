@@ -12,7 +12,7 @@ Dynamic Mode Control: Switches between event modes using a button interrupt.
 
 - Requirements
  
-Arduino board with WiFi capability (e.g., Arduino Nano 33 IoT)
+Arduino board with WiFi capability (e.g., Arduino MKR WIFI 1010)
 Adafruit PN532 NFC breakout board
 WiFiNINA library for Arduino
 ArduinoJson library for JSON parsing
