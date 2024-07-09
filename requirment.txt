@@ -1,0 +1,6 @@
+Wire.h: Library for I2C communication.
+SPI.h: Library for SPI communication.
+Adafruit_PN532.h: Library for the Adafruit PN532 NFC reader.
+WiFiNINA.h: Library for managing the WiFiNINA module (for WiFi-enabled Arduino boards).
+ArduinoJson.h: Library for JSON data manipulation on Arduino.
+LiquidCrystal.h: Library for controlling HD44780-based LCD displays.
